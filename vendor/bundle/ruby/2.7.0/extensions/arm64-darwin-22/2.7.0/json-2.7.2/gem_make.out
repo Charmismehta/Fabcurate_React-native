@@ -1,0 +1,13 @@
+current directory: /Users/webiots/Pictures/fabcurate/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/webiots/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/webiots/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20240928-4506-189abvn.rb extconf.rb
+creating Makefile
+
+current directory: /Users/webiots/Pictures/fabcurate/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/webiots/Pictures/fabcurate/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/webiots/Pictures/fabcurate/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install
